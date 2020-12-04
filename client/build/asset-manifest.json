@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba43a4bd.chunk.css",
+    "main.js": "/static/js/main.d7fcf0f7.chunk.js",
+    "main.js.map": "/static/js/main.d7fcf0f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49b074.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49b074.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f9c2b732.chunk.js": "/static/js/2.f9c2b732.chunk.js",
+    "static/js/2.f9c2b732.chunk.js.map": "/static/js/2.f9c2b732.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ba43a4bd.chunk.css.map": "/static/css/main.ba43a4bd.chunk.css.map",
+    "static/js/2.f9c2b732.chunk.js.LICENSE.txt": "/static/js/2.f9c2b732.chunk.js.LICENSE.txt",
+    "static/media/Capture.7d860c6c.PNG": "/static/media/Capture.7d860c6c.PNG",
+    "static/media/Cropped.e7cc6c42.png": "/static/media/Cropped.e7cc6c42.png",
+    "static/media/Heart.fb71fdb2.png": "/static/media/Heart.fb71fdb2.png",
+    "static/media/Mainlogo.36b34923.png": "/static/media/Mainlogo.36b34923.png",
+    "static/media/banner.310476ab.png": "/static/media/banner.310476ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f49b074.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f9c2b732.chunk.js",
+    "static/css/main.ba43a4bd.chunk.css",
+    "static/js/main.d7fcf0f7.chunk.js"
+  ]
+}
